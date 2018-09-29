@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://afaqurk.github.io/linux-dash">
     <img src="https://raw.githubusercontent.com/afaqurk/screenshots/master/linux-dash/v2.0-logo.png"/>
-  </a>
+  </a>asdsadsdasdss
 </h1>
 
 <p align="center">
